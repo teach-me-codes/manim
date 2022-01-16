@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:c:/Users/sagar/Documents/Intern/qc_on_manim/media/videos/qc_on_manim/720p30/partial_movie_files/Teleportation/1342159004_4125896587_1580501705.mp4'
+file 'file:c:/Users/sagar/Documents/Intern/qc_on_manim/media/videos/qc_on_manim/720p30/partial_movie_files/Teleportation/1353618911_4064294457_469792040.mp4'
+file 'file:c:/Users/sagar/Documents/Intern/qc_on_manim/media/videos/qc_on_manim/720p30/partial_movie_files/Teleportation/1353618911_562037258_2390777806.mp4'
+file 'file:c:/Users/sagar/Documents/Intern/qc_on_manim/media/videos/qc_on_manim/720p30/partial_movie_files/Teleportation/1353618911_196840112_570858045.mp4'
+file 'file:c:/Users/sagar/Documents/Intern/qc_on_manim/media/videos/qc_on_manim/720p30/partial_movie_files/Teleportation/1353618911_3985816383_3529482822.mp4'
+file 'file:c:/Users/sagar/Documents/Intern/qc_on_manim/media/videos/qc_on_manim/720p30/partial_movie_files/Teleportation/1353618911_4088030363_2096715121.mp4'
+file 'file:c:/Users/sagar/Documents/Intern/qc_on_manim/media/videos/qc_on_manim/720p30/partial_movie_files/Teleportation/1353618911_1152718458_3145690076.mp4'
+file 'file:c:/Users/sagar/Documents/Intern/qc_on_manim/media/videos/qc_on_manim/720p30/partial_movie_files/Teleportation/1353618911_3606255465_1720506851.mp4'
+file 'file:c:/Users/sagar/Documents/Intern/qc_on_manim/media/videos/qc_on_manim/720p30/partial_movie_files/Teleportation/1353618911_2515757991_3618292376.mp4'

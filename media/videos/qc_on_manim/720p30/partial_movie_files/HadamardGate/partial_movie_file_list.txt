@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:c:/Users/sagar/Documents/Intern/qc_on_manim/media/videos/qc_on_manim/720p30/partial_movie_files/HadamardGate/3822680512_1741764338_4237890860.mp4'
+file 'file:c:/Users/sagar/Documents/Intern/qc_on_manim/media/videos/qc_on_manim/720p30/partial_movie_files/HadamardGate/3563794933_1013903475_2378141637.mp4'
+file 'file:c:/Users/sagar/Documents/Intern/qc_on_manim/media/videos/qc_on_manim/720p30/partial_movie_files/HadamardGate/3563794933_2559461702_2535144382.mp4'

@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:c:/Users/sagar/Documents/Intern/qc_on_manim/media/videos/qc_on_manim/720p30/partial_movie_files/qftcircuit/1342159004_233268274_1975200907.mp4'
+file 'file:c:/Users/sagar/Documents/Intern/qc_on_manim/media/videos/qc_on_manim/720p30/partial_movie_files/qftcircuit/1353618911_2258089808_3895576216.mp4'
+file 'file:c:/Users/sagar/Documents/Intern/qc_on_manim/media/videos/qc_on_manim/720p30/partial_movie_files/qftcircuit/1353618911_398514950_3320600687.mp4'
+file 'file:c:/Users/sagar/Documents/Intern/qc_on_manim/media/videos/qc_on_manim/720p30/partial_movie_files/qftcircuit/1353618911_2430135112_3890811881.mp4'
+file 'file:c:/Users/sagar/Documents/Intern/qc_on_manim/media/videos/qc_on_manim/720p30/partial_movie_files/qftcircuit/1353618911_920542182_135820788.mp4'
+file 'file:c:/Users/sagar/Documents/Intern/qc_on_manim/media/videos/qc_on_manim/720p30/partial_movie_files/qftcircuit/1353618911_634667441_2522670554.mp4'
+file 'file:c:/Users/sagar/Documents/Intern/qc_on_manim/media/videos/qc_on_manim/720p30/partial_movie_files/qftcircuit/1353618911_3956943209_2030874103.mp4'
+file 'file:c:/Users/sagar/Documents/Intern/qc_on_manim/media/videos/qc_on_manim/720p30/partial_movie_files/qftcircuit/1353618911_223819740_1690173383.mp4'
+file 'file:c:/Users/sagar/Documents/Intern/qc_on_manim/media/videos/qc_on_manim/720p30/partial_movie_files/qftcircuit/1353618911_2754445790_3925243112.mp4'
+file 'file:c:/Users/sagar/Documents/Intern/qc_on_manim/media/videos/qc_on_manim/720p30/partial_movie_files/qftcircuit/1353618911_2609461152_3170752334.mp4'
+file 'file:c:/Users/sagar/Documents/Intern/qc_on_manim/media/videos/qc_on_manim/720p30/partial_movie_files/qftcircuit/1353618911_1152718458_1150120182.mp4'

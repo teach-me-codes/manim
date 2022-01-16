@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:c:/Users/sagar/Documents/Intern/qc_on_manim/media/videos/qc_on_manim/720p30/partial_movie_files/CNOTgate/1342159004_2328648265_3521471508.mp4'
+file 'file:c:/Users/sagar/Documents/Intern/qc_on_manim/media/videos/qc_on_manim/720p30/partial_movie_files/CNOTgate/1353618911_2666353340_1818215388.mp4'
+file 'file:c:/Users/sagar/Documents/Intern/qc_on_manim/media/videos/qc_on_manim/720p30/partial_movie_files/CNOTgate/1353618911_343065185_1397604384.mp4'
+file 'file:c:/Users/sagar/Documents/Intern/qc_on_manim/media/videos/qc_on_manim/720p30/partial_movie_files/CNOTgate/1353618911_1734262406_1818215388.mp4'
+file 'file:c:/Users/sagar/Documents/Intern/qc_on_manim/media/videos/qc_on_manim/720p30/partial_movie_files/CNOTgate/1353618911_4119441264_1639220164.mp4'
+file 'file:c:/Users/sagar/Documents/Intern/qc_on_manim/media/videos/qc_on_manim/720p30/partial_movie_files/CNOTgate/1353618911_2244794957_2330752802.mp4'
+file 'file:c:/Users/sagar/Documents/Intern/qc_on_manim/media/videos/qc_on_manim/720p30/partial_movie_files/CNOTgate/1353618911_1799799916_4207135558.mp4'
+file 'file:c:/Users/sagar/Documents/Intern/qc_on_manim/media/videos/qc_on_manim/720p30/partial_movie_files/CNOTgate/1353618911_3683428088_68312873.mp4'
